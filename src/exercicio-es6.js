@@ -29,11 +29,11 @@ aluno2.setNome("erick");
 aluno2.setNota(10);
 
 let aluno3 = new Aluno();
-aluno3.setNome("leandro");
+aluno3.setNome("rafael");
 aluno3.setNota(5);
 
 let aluno4 = new Aluno();
-aluno4.setNome("tico");
+aluno4.setNome("joao");
 aluno4.setNota(2);
 
 const setAlunosAprovados = new Set([aluno1, aluno2, aluno3, aluno4]);
