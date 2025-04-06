@@ -38,15 +38,7 @@ aluno4.setNota(2);
 
 const setAlunosAprovados = new Set([aluno1, aluno2, aluno3, aluno4]);
 
-// console.log(setAlunosAprovados.get('erick'));
-
-// setAlunosAprovados.keys().forEach(item => {
-    
-//     console.log(setAlunosAprovados.keys())
-    
-// });
 let i = 0;
-
 const alunosAprovados = [];
 function verificarAlunosAprovados(set) {
 
