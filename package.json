@@ -1,0 +1,26 @@
+{
+  "name": "ebac-exercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --watch -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickmjr/EBAC-Exercicios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/erickmjr/EBAC-Exercicios/issues"
+  },
+  "homepage": "https://github.com/erickmjr/EBAC-Exercicios#readme",
+  "description": "",
+  "browserList": ">0.25%",
+  "devDependencies": {
+    "babel": "^5.8.38"
+  }
+}
